@@ -1,1 +1,1 @@
-# i3wm config files for Ubuntu
+# i3-gap config on Arch
