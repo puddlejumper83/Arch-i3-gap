@@ -1,0 +1,27 @@
+#~/.config/termite/config
+
+#termite config file
+
+# fonts
+[options]
+font = Terminus 12
+#font = Cantarell 10
+
+# colors
+[colors]
+foreground = #ffffff
+#background  = #3f3f3f #gray
+
+# transparency
+[colors]
+background = rgba(0, 0, 0, 0.2) 
+
+# misc
+clickable_url = true
+search_wrap = true
+allow_bold = true
+browser = firefox
+
+#cursor = #1f1f1f
+#color0 = #1f1f1f
+
