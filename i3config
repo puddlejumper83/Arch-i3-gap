@@ -24,6 +24,9 @@ for_window [class="mpv"] floating enable
 # make feh float on launch
 for_window [class="feh"] floating enable
 
+#make shotwell float
+for_window [class="Shotwell"] floating enable
+
 # brightness control
 bindsym XF86MonBrightnessUp exec xbacklight + 10
 bindsym XF86MonBrightnessDown exec xbacklight - 10
