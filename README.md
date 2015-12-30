@@ -7,3 +7,5 @@
 # ranger --copy-config=all to get all the config file
 # rc.config contains color scheme
 # in rifle.config you can change map gn to /run/media
+
+#use xprop to get WM_Class name
