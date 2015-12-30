@@ -2,6 +2,9 @@
 
 set $mod Mod4
 
+bindsym $mod+n exec --no-startup-id nautilus
+bindsym $mod+c exec --no-startup-id firefox
+
 # taking screenshots
 bindsym Print exec scrot -e ‘mv $f ~/Pictures/’
 
