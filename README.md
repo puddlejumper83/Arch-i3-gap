@@ -1,4 +1,4 @@
-disable suspend on closing lid on laptop\
+disable suspend on closing lid on laptop\n
 /etc/systemd/logind.conf\
 HandleLidSwitch = ignore\
 HandleLidSwitchDocked=ignore\
