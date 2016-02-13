@@ -9,3 +9,5 @@
 # in rifle.config you can change map gn to /run/media
 
 #use xprop to get WM_Class name
+
+sudo pacman -S wego fbreader unrar unzip pianobar mps-youtube anki thunar qbittorrent chromium arandr evince mpv shotwell feh ranger htop
