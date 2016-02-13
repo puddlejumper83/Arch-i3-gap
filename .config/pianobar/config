@@ -1,0 +1,7 @@
+### ~/.config/pianobar/config
+
+audio_quality = {high, medium, low}
+tls_fingerprint = 13CC51AC0C31CD96C55015C76914360F7AC41A00
+password = Galactica24
+user = knxu@live.com
+
