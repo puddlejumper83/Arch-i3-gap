@@ -11,7 +11,8 @@
 #use xprop to get WM_Class name\
 
 #oblogout for logging options
+#gvfs - for transh can function with GUI file manager
 
-sudo pacman -S wego fbreader unrar unzip pianobar mps-youtube anki thunar qbittorrent chromium arandr evince mpv shotwell feh ranger htop leafpad rofi oblogout
+sudo pacman -S wego fbreader unrar unzip pianobar mps-youtube anki thunar qbittorrent chromium arandr evince mpv shotwell feh ranger htop leafpad rofi oblogout gvfs
 
 
